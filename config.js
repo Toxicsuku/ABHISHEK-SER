@@ -51,16 +51,6 @@ global.botname = "♚♡𝓣𝓸𝔁𝓲𝓬_꯱𝒖𝒌𝒖♡♚"
 global.premium = "true"
 global.packname = "♚♡𝓣𝓸𝔁𝓲𝓬_꯱𝒖𝒌𝒖♡♚" 
 global.author = "♚♡𝓣𝓸𝔁𝓲𝓬_꯱𝒖𝒌𝒖♡♚" 
-global.igfg = "▢ Follow on Instagramhttps://www.instagram.com/invites/contact/?i=9jni427jw8g6&utm_content=6x2doke" 
-global.dygp = "https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"
-global.fgsc = "https://github.com/AbhishekSuresh2/ABHISHEK-SER" 
-global.fgyt = "https://youtube.com/@comedymelodych8468"
-global.fgpyp = "https://youtube.com/@comedymelodych8468"
-global.fglog = "https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png" 
-
-//imagen
-global.imagen1 = fs.readFileSync("./src/Abhi.jpg")
-
 //Dont Edit Danger Zone⚠️
 global.wait = "*⌛ _Please Wait..._*"
 global.rwait = "⌛"
